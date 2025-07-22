@@ -1,0 +1,2 @@
+# manthan
+Setting up GIT
